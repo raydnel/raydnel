@@ -2,9 +2,9 @@
 
 <h2>Cyber Security Projects 📁</h2>
 
-- <b> Threat Detection 🔍</b>
+- <b> Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
-- <b>Sandbox ⏳</b>
+- <b>Sandbox ⏳ (Work In Progress) </b>
   - [Malware Analysis Sandbox](https://github.com/raydnel/sandbox)
 
 <h2>Hacking Leaderboards 📊</h2>
