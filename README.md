@@ -9,4 +9,4 @@
 
 <h2>Hacking Leaderboards 📊</h2>
 
-- [TryHackMe Top 1%](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [TryHackMe Top 1%](https://tryhackme.com/p/raydud)
