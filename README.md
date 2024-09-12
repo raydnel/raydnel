@@ -10,3 +10,13 @@
 <h2>Hacking Leaderboards 📊</h2>
 
 - [TryHackMe Top 1%](https://tryhackme.com/p/raydud)
+
+<h2>Certifications 🔨 </h2>
+
+- [CySA+](https://www.credly.com/badges/b6255f6b-3988-4e40-a9b0-af24d5f43c63/linked_in_profile)
+- [Security+](https://www.credly.com/badges/d332c594-cc4d-41e0-9c31-c7db6eccd118/linked_in_profile)
+- [SSCP - Credential ID 2209075](https://github.com/raydnel/raydnel)
+- [LPI Linux Essentials 800/800](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000616129/n77eprbfck)
+- [Network+](https://www.credly.com/badges/28b3c518-21ee-4969-ab7c-d51483b9b2c2/linked_in_profile)
+- [Project+](https://www.credly.com/badges/81eb81ac-c673-41ef-a793-06056a1854ca/linked_in_profile)
+- [A+](https://www.credly.com/badges/8e514bdb-118b-4be6-8fcc-516e6ff6133c/linked_in_profile)
