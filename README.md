@@ -2,8 +2,8 @@
 
 <h2>Cyber Security Projects 📁</h2>
 
-- <b>Sandbox ⏳ (Work In Progress) </b>
-  - [Malware Analysis Sandbox](https://github.com/raydnel/sandbox)
+- <b>Sandbox ⏳ </b>
+  - [Malware Analysis Sandbox](https://github.com/raydnel/malware-analysis-sandbox)
 - <b> Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
 
