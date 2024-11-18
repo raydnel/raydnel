@@ -4,8 +4,12 @@
 
 - <b>Sandbox ⏳ </b>
   - [Malware Analysis Sandbox](https://github.com/raydnel/malware-analysis-sandbox)
+    
 - <b> Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
+    
+- <b> Query Tool 📑  </b>
+  - [Simple Shodan Query Tool for threat intel](https://github.com/raydnel/ASTD)
 
 <h2>Hacking Leaderboards 📊</h2>
 
