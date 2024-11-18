@@ -6,7 +6,7 @@
   - [Malware Analysis Sandbox](https://github.com/raydnel/malware-analysis-sandbox)    
 - <b> Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
-- <b> Threat Query Tool 📑  </b>
+- <b> Threat Query Tool 📑 (Work In Progress)  </b>
   - [Threat Intel Aggregator Tool](https://github.com/raydnel/ASTD)
 
 <h2>Hacking Leaderboards 📊</h2>
