@@ -5,7 +5,7 @@
 - <b>Sandbox ⏳ </b>
   - [Malware Analysis Sandbox](https://github.com/raydnel/malware-analysis-sandbox)
 - <b> Threat Query Tool 📑 </b>
-  - [Threat Intel Aggregator Tool](https://github.com/raydnel/ASTD)
+  - [Threat Intel Aggregator Tool](https://github.com/raydnel/threat_intel_aggregator)
 - <b> Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
 
