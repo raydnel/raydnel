@@ -6,6 +6,8 @@
   - [Malware Analysis Sandbox](https://github.com/raydnel/malware-analysis-sandbox)
 - <b> Threat Query Tool Using Python📑 </b>
   - [Threat Intel Aggregator Tool](https://github.com/raydnel/threat_intel_aggregator)
+- <b> AWS Inventory Tool Using Python</b>
+  - [AWS Inventory Tool](https://github.com/raydnel/aws_inventory_tool)
 - <b> Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
 
