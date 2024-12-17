@@ -30,3 +30,7 @@
 - [Network+](https://www.credly.com/badges/28b3c518-21ee-4969-ab7c-d51483b9b2c2/linked_in_profile)
 - [Project+](https://www.credly.com/badges/81eb81ac-c673-41ef-a793-06056a1854ca/linked_in_profile)
 - [A+](https://www.credly.com/badges/8e514bdb-118b-4be6-8fcc-516e6ff6133c/linked_in_profile)
+
+<h2>Visitor Counter</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/raydnel/count.svg)
