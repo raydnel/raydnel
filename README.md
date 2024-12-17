@@ -1,4 +1,4 @@
-<h1>Hello! I'm Ray Nelson 💻<br/><a href="https://www.linkedin.com/in/raynelso">Cyber Security Professional</a></h1>
+<h1>Hello! I'm Ray Nelson 💻<br/><a href="https://www.linkedin.com/in/raynelso">System Administrator and Cyber Security Professional</a></h1>
 
 <h2>Cyber Security Projects 📁</h2>
 
