@@ -13,10 +13,13 @@
 - <b>Threat Detection 🔍 (Work In Progress) </b>
   - [Automated SIEM Threat Detection](https://github.com/raydnel/ASTD)
 
-<h2>Technical Implementation Guides </h2>
+<h2> Guides </h2>
 
 - <b> Deploying Sophos Endpoint in Intune  💻 </b>
   - [Deploying Sophos Endpoint in Intune](https://github.com/raydnel/sophos_intune_deploy)
+    
+- <b> How I got DeepSeek to build Ransomware 🇨🇳</b>
+  - [DeepSeek Ransomware](https://github.com/raydnel/deepseek_prompts)
     
 - <b> Adding Additional Storage Without turning off EC2 Instance </b>
   - [EC2 Storage Increase](https://github.com/raydnel/ec2_storage_increase)
