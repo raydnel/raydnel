@@ -6,7 +6,7 @@
   - [Malware Analysis Sandbox](https://github.com/raydnel/malware-analysis-sandbox)
 - <b>Threat Query Tool Using Python📑 </b>
   - [Threat Intel Aggregator Tool](https://github.com/raydnel/threat_intel_aggregator)
- <b>How to mod a Wii</b>
+- <b>How to mod a Wii</b>
   - [Modded Wii guide](https://github.com/raydnel/modded_wii_guide)
 - <b>AWS Inventory Tool Using Python</b>
   - [AWS Inventory Tool](https://github.com/raydnel/aws_inventory_tool)
